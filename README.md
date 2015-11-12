@@ -10,3 +10,5 @@
 (5) Written by Dr.Pin-Chih Su and Cheng-Chieh Tsai
 
 (6) If you use this script, please cite: Journal of Computational Chemistry, 2015, 36,1859-1873
+
+(7) More details are available at https://sites.google.com/site/2015pcsu/data-science/mmpbsa
