@@ -1,4 +1,7 @@
 # AMBER-mmPGBSA-linear-regression-plot
+
+last modified 2016
+
 (1) Usage: python mmPBSA_linear_regression.py -i input.csv -o output
 
 (2) Output plots are jpg files
